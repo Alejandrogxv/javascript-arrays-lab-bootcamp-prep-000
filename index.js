@@ -12,3 +12,5 @@ function destructivelyAppendKitten(name){
    kittens.pop(name)
    return kittens;
  }
+ 
+ function
