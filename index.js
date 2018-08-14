@@ -18,4 +18,6 @@ function destructivelyAppendKitten(name){
    return kittens;
  }
  
- 
+ function appendKitten(name) {
+   
+ }
